@@ -1389,7 +1389,7 @@ bot.command('statusprem', (ctx) => {
                 },
                 {
                     text: "SUPPORT",
-                    url: "https://t.me/ajjeidnxoeodjnd"
+                    url: "https://t.me/Bilal_mdbot"
                 }
             ]
         ];

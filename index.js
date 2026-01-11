@@ -1389,10 +1389,7 @@ bot.command('statusprem', (ctx) => {
                 },
                 {
                     text: "SUPPORT",
-                    url: "https://t.me/ajjeidnxoeodjnd
-
-
-Chennal"
+                    url: "https://t.me/ajjeidnxoeodjnd"
                 }
             ]
         ];
